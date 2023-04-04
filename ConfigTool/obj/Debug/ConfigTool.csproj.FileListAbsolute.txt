@@ -1,0 +1,10 @@
+C:\Users\newms\source\repos\ConfigTool\ConfigTool\bin\Debug\ConfigTool.exe.config
+C:\Users\newms\source\repos\ConfigTool\ConfigTool\bin\Debug\ConfigTool.exe
+C:\Users\newms\source\repos\ConfigTool\ConfigTool\bin\Debug\ConfigTool.pdb
+C:\Users\newms\source\repos\ConfigTool\ConfigTool\obj\Debug\ConfigTool.csproj.AssemblyReference.cache
+C:\Users\newms\source\repos\ConfigTool\ConfigTool\obj\Debug\ConfigTool.Form1.resources
+C:\Users\newms\source\repos\ConfigTool\ConfigTool\obj\Debug\ConfigTool.Properties.Resources.resources
+C:\Users\newms\source\repos\ConfigTool\ConfigTool\obj\Debug\ConfigTool.csproj.GenerateResource.cache
+C:\Users\newms\source\repos\ConfigTool\ConfigTool\obj\Debug\ConfigTool.csproj.CoreCompileInputs.cache
+C:\Users\newms\source\repos\ConfigTool\ConfigTool\obj\Debug\ConfigTool.exe
+C:\Users\newms\source\repos\ConfigTool\ConfigTool\obj\Debug\ConfigTool.pdb
