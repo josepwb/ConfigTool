@@ -19,10 +19,21 @@ namespace ConfigTool
             InitializeComponent();
         }
 
+		//Created for Revolution RaiderZ by José Lucas
+		//Date 04/04/2023
+
         public string ConfigFileName = "config.xml";
 
         private void Form1_Load(object sender, EventArgs e)
         {
+			string root = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "Raiderz\\Save\\");
+
+            // If directory does not exist, create it.
+            if (!Directory.Exists(root))
+            {
+                Directory.CreateDirectory(root);
+            }
+
             string filePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "Raiderz\\Save\\" + ConfigFileName);
             XmlDocument doc = new XmlDocument();
 
