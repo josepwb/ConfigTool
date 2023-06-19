@@ -8,3 +8,13 @@ C:\Users\newms\source\repos\ConfigTool\ConfigTool\obj\Debug\ConfigTool.csproj.Ge
 C:\Users\newms\source\repos\ConfigTool\ConfigTool\obj\Debug\ConfigTool.csproj.CoreCompileInputs.cache
 C:\Users\newms\source\repos\ConfigTool\ConfigTool\obj\Debug\ConfigTool.exe
 C:\Users\newms\source\repos\ConfigTool\ConfigTool\obj\Debug\ConfigTool.pdb
+H:\RaiderZ\Source\ConfigTool\ConfigTool\bin\Debug\ConfigTool.exe.config
+H:\RaiderZ\Source\ConfigTool\ConfigTool\bin\Debug\ConfigTool.exe
+H:\RaiderZ\Source\ConfigTool\ConfigTool\bin\Debug\ConfigTool.pdb
+H:\RaiderZ\Source\ConfigTool\ConfigTool\obj\Debug\ConfigTool.csproj.AssemblyReference.cache
+H:\RaiderZ\Source\ConfigTool\ConfigTool\obj\Debug\ConfigTool.Form1.resources
+H:\RaiderZ\Source\ConfigTool\ConfigTool\obj\Debug\ConfigTool.Properties.Resources.resources
+H:\RaiderZ\Source\ConfigTool\ConfigTool\obj\Debug\ConfigTool.csproj.GenerateResource.cache
+H:\RaiderZ\Source\ConfigTool\ConfigTool\obj\Debug\ConfigTool.csproj.CoreCompileInputs.cache
+H:\RaiderZ\Source\ConfigTool\ConfigTool\obj\Debug\ConfigTool.exe
+H:\RaiderZ\Source\ConfigTool\ConfigTool\obj\Debug\ConfigTool.pdb

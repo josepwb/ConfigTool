@@ -97,6 +97,7 @@ namespace ConfigTool
             this.check_MVol1 = new System.Windows.Forms.CheckBox();
             this.check_MVol0 = new System.Windows.Forms.CheckBox();
             this.save_button = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox9.SuspendLayout();
             this.groupBox8.SuspendLayout();
@@ -886,11 +887,21 @@ namespace ConfigTool
             this.save_button.UseVisualStyleBackColor = true;
             this.save_button.Click += new System.EventHandler(this.save_button_Click);
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(491, 666);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(88, 13);
+            this.label4.TabIndex = 6;
+            this.label4.Text = "RaGEZone 2023";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(592, 688);
+            this.ClientSize = new System.Drawing.Size(592, 691);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.save_button);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -925,6 +936,7 @@ namespace ConfigTool
             this.groupBox10.ResumeLayout(false);
             this.groupBox10.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -996,6 +1008,7 @@ namespace ConfigTool
         private System.Windows.Forms.CheckBox check_Terrain5;
         private System.Windows.Forms.CheckBox check_Terrain4;
         private System.Windows.Forms.Button save_button;
+        private System.Windows.Forms.Label label4;
     }
 }
 
